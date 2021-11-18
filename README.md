@@ -73,7 +73,7 @@ sh infer_cate1_cate2_tag.sh
 
 ### 4、整体框架
 
-![图片 1](/Users/stoneye/Pictures/图片 1.png)
+![图片 1](preprocess/data/images/1.png)
 
 ​																	figure1. Proposed framework for semantic tags clasification
 
@@ -81,8 +81,8 @@ sh infer_cate1_cate2_tag.sh
 
 #### 4.1 Cascade Module (CCM)
 
-![2](/Users/stoneye/Pictures/2.png)
+![2](preprocess/data/images/2.png)
 
 #### 4.2  Adversarial Perturbation Module (APM)
 
-![3](/Users/stoneye/Pictures/3.png)
+![3](preprocess/data/images/3.png)
